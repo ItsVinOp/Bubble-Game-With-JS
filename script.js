@@ -1,4 +1,4 @@
-var timer = 5;
+var timer = 60;
 
 var score = 0;           //you didnt set score value then it will not increase
 
